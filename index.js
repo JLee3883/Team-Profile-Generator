@@ -4,7 +4,7 @@ const Engineer = require("./lib/Engineer");
 const Intern = require("./lib/Intern");
 const Manager = require("./lib/Manager");
 
-const questions = [
+const manQuestions = [
 	{
 		type: 'input',
 		message: 'Please enter the team managers name:  ',
